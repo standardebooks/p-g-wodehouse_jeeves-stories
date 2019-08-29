@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008113118</meta>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
-		<meta property="term" refines="#subject-7">sh85121854</meta>
+		<meta property="term" refines="#subject-8">sh85121854</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
