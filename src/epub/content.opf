@@ -58,11 +58,11 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;i&gt;Jeeves Stories&lt;/i&gt; is a collection of humorous short stories by P. G. Wodehouse that feature the adventures of his most famous characters Jeeves and Wooster. Wooster is a wealthy and idle young English gentleman of the interwar era. Jeeves is his extraordinarily competent valet who&apos;s name has since become synonymous with perfect service. The stories follow Wooster in his wanderings about London, around England and across the Atlantic to New York with Jeeves following in his wake and striving to keep his employer well-groomed and properly presented while along the way still managing to extricate Wooster and his friends from the various scrapes and follies they get themselves into.
-			First published as early as 1915, the stories first appeared on both sides of the Atlantic in publications like &lt;i&gt;The Saturday Evening Post&lt;/i&gt; and &lt;i&gt;The Strand Magazine&lt;/i&gt; and were later also collected into books or reworked into novels. Though Wodehouse wrote over 300 short stories in his lifetime with less than fifty of them featuring Jeeves and Wooster, they remain his most enduring characters, copied, imitated and featured in countless interpretations and adaptations. A 100 years later, these original stories still are as amusing and entertaining to the modern reader as they were when they were first published.
+			&lt;p&gt;&lt;i&gt;Jeeves Stories&lt;/i&gt; is a collection of humorous short stories by P. G. Wodehouse that feature the adventures of his most famous characters Jeeves and Wooster. Wooster is a wealthy and idle young English gentleman of the interwar era. Jeeves is his extraordinarily competent valet whose name has since become synonymous with perfect service. The stories follow Wooster in his wanderings about London, around England and across the Atlantic to New York with Jeeves following in his wake and striving to keep his employer well-groomed and properly presented while along the way still managing to extricate Wooster and his friends from the various scrapes and follies they get themselves into.&lt;/p&gt;
+			&lt;p&gt;First published as early as 1915, the stories first appeared on both sides of the Atlantic in publications like &lt;i&gt;The Saturday Evening Post&lt;/i&gt; and &lt;i&gt;The Strand Magazine&lt;/i&gt; and were later also collected into books or reworked into novels. Though Wodehouse wrote over 300 short stories in his lifetime with less than fifty of them featuring Jeeves and Wooster, they remain his most enduring characters, copied, imitated and featured in countless interpretations and adaptations. A 100 years later, these original stories still are as amusing and entertaining to the modern reader as they were when they were first published.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/8176</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/8176</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/7471</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/8164</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/8190</dc:source>
@@ -89,7 +89,8 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>		<dc:contributor id="transcriber-2">Martin Pettit</dc:contributor>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Martin Pettit</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Pettit, Martin</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Suzanne L. Shell</dc:contributor>
