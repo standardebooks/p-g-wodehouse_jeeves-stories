@@ -6,16 +6,6 @@ footer{
 	text-align: right;
 }
 
-letterhead p > span{
-	display: block;
-	text-indent: -1em;
-	padding-left: 1em;
-}
-
-letterhead p > span + br{
-	display: none;
-}
-
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
