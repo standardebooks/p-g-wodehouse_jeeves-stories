@@ -69,7 +69,11 @@
 		<dc:source>https://www.gutenberg.org/ebooks/59254</dc:source>
 		<dc:source>https://archive.org/details/TheManWithTwoLeftFeet</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.509243</dc:source>
-		<dc:source>https://archive.org/details/in.ernet.dli.2015.225321</dc:source>
+		<dc:source>https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1916bVol.LiiJul-dec</dc:source>
+		<dc:source>https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1916aVol.LiJan-jun</dc:source>
+		<dc:source>https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1917bVol.LivJul-dec</dc:source>
+		<dc:source>https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1917aVol.LiiiJan-jun</dc:source>
+		<dc:source>https://archive.org/details/the-saturday-evening-post-1916-11-18/page/n13</dc:source>
 		<meta property="se:production-notes">These stories were</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -160,13 +164,13 @@
 		<itemref idref="aunt-agatha-makes-a-bloomer.xhtml"/>
 		<itemref idref="scoring-off-jeeves.xhtml"/>
 		<itemref idref="sir-roderick-comes-to-lunch.xhtml"/>
-		<itemref idref="bingo-and-the-little-woman.xhtml"/>
 		<itemref idref="jeeves-and-the-chump-cyril.xhtml"/>
 		<itemref idref="comrade-bingo.xhtml"/>
 		<itemref idref="the-great-sermon-handicap.xhtml"/>
 		<itemref idref="the-purity-of-the-turf.xhtml"/>
 		<itemref idref="the-metropolitan-touch.xhtml"/>
 		<itemref idref="the-delayed-exit-of-claude-and-eustace.xhtml"/>
+		<itemref idref="bingo-and-the-little-woman.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
