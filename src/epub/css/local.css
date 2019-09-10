@@ -11,8 +11,8 @@ footer{
 }
 
 blockquote.note{
-	width:80%;
-	margin:1em auto;
+	width: 80%;
+	margin: 1em auto;
 }
 
 .note .center{
@@ -21,7 +21,8 @@ blockquote.note{
 
 .note p{
 	text-indent: -1em;
-	padding-left: 1em;}
+	padding-left: 1em;
+}
 
 .signature{
 	font-variant: small-caps;
