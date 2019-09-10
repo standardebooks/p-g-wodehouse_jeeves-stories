@@ -11,14 +11,17 @@ footer{
 }
 
 blockquote.note{
-	margin: auto;
-	max-width: 80%;
-	text-align: left;
+	width:80%;
+	margin:1em auto;
 }
 
-.center{
+.note .center{
 	text-align: center;
 }
+
+.note p{
+	text-indent: -1em;
+	padding-left: 1em;}
 
 .signature{
 	font-variant: small-caps;
