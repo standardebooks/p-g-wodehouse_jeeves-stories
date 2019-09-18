@@ -12,16 +12,15 @@ footer{
 
 blockquote.note{
 	width: 80%;
-	margin: 1em auto;
-}
-
-.note .center{
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 }
 
-.note p{
+#the-great-sermon-handicap .list p{
 	text-indent: -1em;
 	padding-left: 1em;
+	text-align: left;
 }
 
 .signature{
