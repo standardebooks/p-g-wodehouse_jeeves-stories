@@ -10,16 +10,28 @@ footer{
 	font-variant: small-caps;
 }
 
-#note {
-	text-align: center;
+#the-great-sermon-handicap ul {
 	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#note ul {
+#the-great-sermon-handicap li {
 	list-style-type: none;
 	text-align: left;
+	text-indent: -1em;
+}
+
+#the-great-sermon-handicap ul > p:first-child,
+#the-great-sermon-handicap ul > p:last-of-type {
+	text-align: center;
+	text-indent: 0
+}
+
+#the-metropolitan-touch ul {
+	list-style-type: none;
+	text-align: center;
+	text-indent: 0
 }
 
 .signature{
