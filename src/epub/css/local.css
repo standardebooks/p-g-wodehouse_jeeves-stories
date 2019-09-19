@@ -6,34 +6,40 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"]{
+#the-great-sermon-handicap blockquote:nth-of-type(2){
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+#the-great-sermon-handicap blockquote:nth-of-type(2) > p:first-child{
 	font-variant: small-caps;
+	margin-bottom: 1em;
+	text-align: center;
 }
 
 #the-great-sermon-handicap ul{
-	width: 80%;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#the-great-sermon-handicap li{
+	font-style: italic;
+	margin: 0;
 	list-style-type: none;
 	text-align: left;
-	text-indent: -1em;
 }
 
-#the-great-sermon-handicap ul > p:first-child,
-#the-great-sermon-handicap ul > p:last-of-type{
+#the-great-sermon-handicap ul + p{
 	text-align: center;
-	text-indent: 0
 }
 
-#the-metropolitan-touch ul{
-	list-style-type: none;
+#the-great-sermon-handicap ul + p + p{
+	margin-top: 1em;
 	text-align: center;
-	text-indent: 0
 }
 
+#the-metropolitan-touch blockquote:nth-of-type(3){
+	font-style: italic;
+	text-align: center;
+}
+
+[epub|type~="z3998:salutation"],
 .signature{
 	font-variant: small-caps;
 }
