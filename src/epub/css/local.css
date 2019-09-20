@@ -22,16 +22,14 @@ footer{
 	font-style: italic;
 	margin: 0;
 	list-style-type: none;
-	text-align: left;
 }
 
-#the-great-sermon-handicap ul + p{
+#the-great-sermon-handicap ul ~ p{
 	text-align: center;
 }
 
 #the-great-sermon-handicap ul + p + p{
 	margin-top: 1em;
-	text-align: center;
 }
 
 #the-metropolitan-touch blockquote:nth-of-type(3){
