@@ -37,32 +37,40 @@ footer{
 	text-align: center;
 }
 
+#bingo-and-the-little-woman blockquote,
+#extricating-young-gussie blockquote,
+#jeeves-and-the-chump-cyril blockquote,
+#jeeves-takes-charge blockquote:nth-of-type(3),
+#the-metropolitan-touch [epub|type~="z3998:letter"]{
+	font-style: italic;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: left;
+}
+
 [epub|type~="z3998:salutation"],
 .signature{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p > span{
-	display: block;
-	text-indent: -1em;
-	padding-left: 1em;
-}
-
-[epub|type~="z3998:poem"] p > span + br{
-	display: none;
-}
-
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
