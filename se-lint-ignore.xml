@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="content.opf">
+		<ignore>
+			<code>m-007</code>
+			<reason>The unexpected archive.org URLs point to the starting pages of the stories in large periodical compilation.</reason>
+		</ignore>
+	</file>
+	<file path="the-metropolitan-touch.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Punctuation is part of the play names.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
