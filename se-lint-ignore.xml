@@ -5,6 +5,10 @@
 			<code>m-007</code>
 			<reason>The unexpected archive.org URLs point to the starting pages of the stories in large periodical compilation.</reason>
 		</ignore>
+		<ignore>
+			<code>m-059</code>
+			<reason>The unexpected archive.org URLs point to the starting pages of the stories in large periodical compilation.</reason>
+		</ignore>
 	</file>
 	<file path="the-metropolitan-touch.xhtml">
 		<ignore>
