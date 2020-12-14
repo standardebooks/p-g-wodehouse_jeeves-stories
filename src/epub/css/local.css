@@ -26,6 +26,7 @@ footer{
 
 #the-great-sermon-handicap ul ~ p{
 	text-align: center;
+	text-indent: 0;
 }
 
 #the-great-sermon-handicap ul + p + p{
