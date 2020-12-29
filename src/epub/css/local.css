@@ -85,3 +85,9 @@ p span.i2{
 	text-indent: -1em;
 	padding-left: 3em;
 }
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: left;
+	text-indent: 0;
+}
