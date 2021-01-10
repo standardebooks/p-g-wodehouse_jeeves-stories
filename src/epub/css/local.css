@@ -38,6 +38,10 @@ footer{
 	text-align: center;
 }
 
+#the-metropolitan-touch blockquote:nth-of-type(3) i{
+	font-style: normal;
+}
+
 #bingo-and-the-little-woman blockquote,
 #extricating-young-gussie blockquote,
 #jeeves-and-the-chump-cyril blockquote,
