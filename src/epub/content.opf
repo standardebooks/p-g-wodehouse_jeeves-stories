@@ -76,7 +76,7 @@
 		<dc:source>https://archive.org/details/the-saturday-evening-post-1916-11-18/page/n13</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.225321</dc:source>
 		<meta property="se:production-notes">These stories were compiled from the most current rights-free sources available at the time of publication. Many of them were rewritten in later iterations and may differ by varying degrees.</meta>
-		<meta property="se:word-count">147319</meta>
+		<meta property="se:word-count">147317</meta>
 		<meta property="se:reading-ease.flesch">83.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jeeves_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_jeeves-stories</meta>
@@ -169,8 +169,8 @@
 		<itemref idref="leave-it-to-jeeves.xhtml"/>
 		<itemref idref="the-aunt-and-the-sluggard.xhtml"/>
 		<itemref idref="jeeves-takes-charge.xhtml"/>
-		<itemref idref="jeeves-and-the-hardboiled-egg.xhtml"/>
 		<itemref idref="jeeves-and-the-unbidden-guest.xhtml"/>
+		<itemref idref="jeeves-and-the-hardboiled-egg.xhtml"/>
 		<itemref idref="jeeves-in-the-springtime.xhtml"/>
 		<itemref idref="aunt-agatha-makes-a-bloomer.xhtml"/>
 		<itemref idref="scoring-off-jeeves.xhtml"/>
