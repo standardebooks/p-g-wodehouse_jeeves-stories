@@ -140,6 +140,7 @@
 		<item href="text/comrade-bingo.xhtml" id="comrade-bingo.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/editors-preface.xhtml" id="editors-preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/extricating-young-gussie.xhtml" id="extricating-young-gussie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/fixing-it-for-freddie.xhtml" id="fixing-it-for-freddie.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/jeeves-and-the-chump-cyril.xhtml" id="jeeves-and-the-chump-cyril.xhtml" media-type="application/xhtml+xml"/>
@@ -160,7 +161,7 @@
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/without-the-option.xhtml" id="without-the-option.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
-	<spine>
+		<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="editors-preface.xhtml"/>
@@ -184,6 +185,7 @@
 		<itemref idref="bingo-and-the-little-woman.xhtml"/>
 		<itemref idref="the-rummy-affair-of-old-biffy.xhtml"/>
 		<itemref idref="without-the-option.xhtml"/>
+		<itemref idref="fixing-it-for-freddie.xhtml"/>
 		<itemref idref="clustering-round-young-bingo.xhtml"/>
 		<itemref idref="bertie-changes-his-mind.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
