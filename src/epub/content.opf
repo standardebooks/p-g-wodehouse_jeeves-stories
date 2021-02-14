@@ -161,7 +161,7 @@
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/without-the-option.xhtml" id="without-the-option.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
-		<spine>
+	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="editors-preface.xhtml"/>
