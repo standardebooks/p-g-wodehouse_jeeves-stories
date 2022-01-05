@@ -74,6 +74,7 @@
 		<dc:source>https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1917bVol.LivJul-dec</dc:source>
 		<dc:source>https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1917aVol.LiiiJan-jun</dc:source>
 		<dc:source>https://archive.org/details/the-saturday-evening-post-1916-11-18/page/n13</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100492999</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.225321</dc:source>
 		<meta property="se:production-notes">These stories were compiled from the most current rights-free sources available at the time of publication. Many of them were rewritten in later iterations and may differ by varying degrees.</meta>
 		<meta property="se:word-count">154159</meta>
@@ -144,6 +145,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/jeeves-and-the-chump-cyril.xhtml" id="jeeves-and-the-chump-cyril.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jeeves-and-the-hard-boiled-egg.xhtml" id="jeeves-and-the-hard-boiled-egg.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jeeves-and-the-impending-doom.xhtml" id="jeeves-and-the-impending-doom.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jeeves-and-the-unbidden-guest.xhtml" id="jeeves-and-the-unbidden-guest.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jeeves-in-the-springtime.xhtml" id="jeeves-in-the-springtime.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jeeves-takes-charge.xhtml" id="jeeves-takes-charge.xhtml" media-type="application/xhtml+xml"/>
@@ -153,6 +155,7 @@
 		<item href="text/the-aunt-and-the-sluggard.xhtml" id="the-aunt-and-the-sluggard.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-delayed-exit-of-claude-and-eustace.xhtml" id="the-delayed-exit-of-claude-and-eustace.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-great-sermon-handicap.xhtml" id="the-great-sermon-handicap.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-inferiority-complex-of-old-sippy.xhtml" id="the-inferiority-complex-of-old-sippy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-metropolitan-touch.xhtml" id="the-metropolitan-touch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-purity-of-the-turf.xhtml" id="the-purity-of-the-turf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-rummy-affair-of-old-biffy.xhtml" id="the-rummy-affair-of-old-biffy.xhtml" media-type="application/xhtml+xml"/>
@@ -188,6 +191,8 @@
 		<itemref idref="fixing-it-for-freddie.xhtml"/>
 		<itemref idref="clustering-round-young-bingo.xhtml"/>
 		<itemref idref="bertie-changes-his-mind.xhtml"/>
+		<itemref idref="the-inferiority-complex-of-old-sippy.xhtml"/>
+		<itemref idref="jeeves-and-the-impending-doom.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
