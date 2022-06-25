@@ -55,6 +55,7 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Jeeves Stories&lt;/i&gt; is a collection of humorous short stories by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;&lt;abbr&gt;P. G.&lt;/abbr&gt; Wodehouse&lt;/a&gt; that feature the adventures of his most famous characters, Jeeves and Wooster. Wooster is a wealthy and idle young English gentleman of the interwar era. Jeeves is his extraordinarily competent valet whose name has since become synonymous with perfect service. The stories follow Wooster in his wanderings about London, around England, and across the Atlantic to New York, with Jeeves following in his wake and striving to keep his employer well-groomed and properly presented. Along the way Jeeves must somehow also manage to extricate Wooster and his friends from the various scrapes and follies they get themselves into.&lt;/p&gt;
