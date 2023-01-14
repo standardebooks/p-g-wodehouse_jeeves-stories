@@ -147,6 +147,7 @@
 		<item href="text/jeeves-and-the-hard-boiled-egg.xhtml" id="jeeves-and-the-hard-boiled-egg.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jeeves-and-the-impending-doom.xhtml" id="jeeves-and-the-impending-doom.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jeeves-and-the-unbidden-guest.xhtml" id="jeeves-and-the-unbidden-guest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jeeves-and-the-yule-tide-spirit.xhtml" id="jeeves-and-the-yule-tide-spirit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jeeves-in-the-springtime.xhtml" id="jeeves-in-the-springtime.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jeeves-takes-charge.xhtml" id="jeeves-takes-charge.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/leave-it-to-jeeves.xhtml" id="leave-it-to-jeeves.xhtml" media-type="application/xhtml+xml"/>
@@ -193,6 +194,7 @@
 		<itemref idref="bertie-changes-his-mind.xhtml"/>
 		<itemref idref="the-inferiority-complex-of-old-sippy.xhtml"/>
 		<itemref idref="jeeves-and-the-impending-doom.xhtml"/>
+		<itemref idref="jeeves-and-the-yule-tide-spirit.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
