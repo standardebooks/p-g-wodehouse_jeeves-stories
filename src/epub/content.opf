@@ -106,8 +106,8 @@
 		<dc:contributor id="transcriber-4">Charles Franks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-5">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-5">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-5">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Distributed Proofreaders</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
