@@ -2,6 +2,9 @@
 <se-lint-ignore>
 	<file path="the-metropolitan-touch.xhtml">
 		<ignore code="t-017">
+			<line>131</line>
+			<line>135</line>
+			<line>148</line>
 			<reason>Punctuation is part of the play names.</reason>
 		</ignore>
 	</file>
