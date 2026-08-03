@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories</dc:identifier>
 		<dc:date>2019-09-19T21:46:14Z</dc:date>
@@ -58,11 +58,11 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of short stories featuring Jeeves and Wooster and the upperclass English life of the early 1900s.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Jeeves Stories&lt;/i&gt; is a collection of humorous short stories by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;&lt;abbr&gt;P. G.&lt;/abbr&gt; Wodehouse&lt;/a&gt; that feature the adventures of his most famous characters, Jeeves and Wooster. Wooster is a wealthy and idle young English gentleman of the interwar era. Jeeves is his extraordinarily competent valet whose name has since become synonymous with perfect service. The stories follow Wooster in his wanderings about London, around England, and across the Atlantic to New York, with Jeeves following in his wake and striving to keep his employer well-groomed and properly presented. Along the way Jeeves must somehow also manage to extricate Wooster and his friends from the various scrapes and follies they get themselves into.&lt;/p&gt;
 			&lt;p&gt;First published as early as 1915, the stories first appeared on both sides of the Atlantic in publications like &lt;i&gt;The Saturday Evening Post&lt;/i&gt; and &lt;i&gt;The Strand Magazine&lt;/i&gt;. They were later collected into books or reworked into novels. Though only less than 50 of Wodehouse’s over 300 short stories feature Jeeves and Wooster, they remain his most enduring characters. They’ve been copied, imitated, and featured in countless interpretations and adaptations. A century later, these stories still are as amusing and entertaining as they were when they were first published.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8176</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/7471</dc:source>
