@@ -31,12 +31,12 @@
 		<dc:title id="title">Jeeves Stories</dc:title>
 		<meta property="file-as" refines="#title">Jeeves Stories</meta>
 		<dc:subject id="subject-1">Humorous stories, English</dc:subject>
-		<dc:subject id="subject-2">Wooster, Bertie (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Jeeves (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Valets -- Fiction</dc:subject>
-		<dc:subject id="subject-5">England -- Social life and customs -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Single men -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Upper class -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Wooster, Bertie (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Jeeves (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Valets--Fiction</dc:subject>
+		<dc:subject id="subject-5">England--Social life and customs--Fiction</dc:subject>
+		<dc:subject id="subject-6">Single men--Fiction</dc:subject>
+		<dc:subject id="subject-7">Upper class--Fiction</dc:subject>
 		<dc:subject id="subject-8">Short stories, English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062977</meta>
