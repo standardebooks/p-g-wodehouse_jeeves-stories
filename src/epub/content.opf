@@ -87,7 +87,7 @@
 		<link href="https://github.com/standardebooks/p-g-wodehouse_jeeves-stories" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
-		<meta property="schema:alternateName" refines="#author">Sir Pelham Grenville Wodehouse</meta>
+		<meta property="schema:alternateName" refines="#author">Pelham Grenville Wodehouse</meta>
 		<link href="https://en.wikipedia.org/wiki/P._G._Wodehouse" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n78089036.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -111,6 +111,7 @@
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-5" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
